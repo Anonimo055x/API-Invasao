@@ -35,4 +35,4 @@ query {
           import executar = ("Mac.ios")
 
           action = ('subsytem+executar')
-        }/>
+        }/
